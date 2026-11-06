@@ -1,6 +1,9 @@
 {
   "name": "unreal-mcp-skills",
-  "owner": { "name": "Patryk Grandt" },
+  "owner": {
+    "name": "Patryk Grandt"
+  },
+  "description": "Skills for Unreal Engine MCP (EditorToolset).",
   "plugins": [
     {
       "name": "unreal-mcp-skills",
