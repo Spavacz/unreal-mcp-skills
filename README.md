@@ -10,6 +10,14 @@ Verified in UE 5.8.4.
 
 ## Install
 
+Claude Code plugin marketplace:
+
+```
+/plugin install unreal-mcp-skills --marketplace Spavacz/unreal-mcp-skills
+```
+
+Any agent, via the skills CLI:
+
 ```
 npx skills add Spavacz/unreal-mcp-skills
 ```

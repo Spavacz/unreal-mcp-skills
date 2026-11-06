@@ -1,0 +1,8 @@
+{
+  "name": "unreal-mcp-skills",
+  "description": "Agent skills for working with Unreal Engine through its MCP server (EditorToolset).",
+  "version": "1.0.0",
+  "author": { "name": "Patryk Grandt" },
+  "repository": "https://github.com/Spavacz/unreal-mcp-skills",
+  "license": "MIT"
+}

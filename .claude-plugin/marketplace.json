@@ -1,0 +1,11 @@
+{
+  "name": "unreal-mcp-skills",
+  "owner": { "name": "Patryk Grandt" },
+  "plugins": [
+    {
+      "name": "unreal-mcp-skills",
+      "source": "./",
+      "description": "Agent skills for working with Unreal Engine through its MCP server (EditorToolset)."
+    }
+  ]
+}
